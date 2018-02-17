@@ -105,7 +105,6 @@ def grep (client_socket, word, log_name):
 	p2 = Popen(["grep", word], stdin=p1.stdout, stdout=PIPE)
 	p3 = Popen(["head", "-3"], stdin=p2.stdout, stdout=PIPE)
 	output = p3.communicate()[0]
-	print(output)
 	client_socket.send(str.encode("Chatbot: Here are the 3 first matching lines of the log:\n"))
 	client_socket.send(str.encode(output))
 
