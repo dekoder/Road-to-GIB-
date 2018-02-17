@@ -23,6 +23,7 @@ function rotate {
 }
 
 function kill-redirect {
+	#echo "[+] Kill process"
 	PID=$(ps -ef | grep tail | grep -v grep | awk '$3~/'$$'/{print$2}')
 	kill $PID
 }
