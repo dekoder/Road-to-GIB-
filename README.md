@@ -35,7 +35,3 @@ If you click in the gif, you are sent to youtube:
 Files:
   - Chatbot.py
   - config.ini
-
-
-GIFS:
-https://ezgif.com
