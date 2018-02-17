@@ -30,7 +30,7 @@ Coded in python. Bot that reads a config file that using regulars expressions un
 Note: Config.ini has a minor change in the format. I used '#' insted of ':' to separate fields.
 
 If you click in the gif, you are sent to youtube:
-[![Link-exercise2](https://imgur.com/WcSBcUk)](https://www.youtube.com/watch?v=7M_JxDnWyGc)
+[![Link-exercise2](https://i.imgur.com/WcSBcUk.gif)](https://www.youtube.com/watch?v=7M_JxDnWyGc)
 
 Files:
   - Chatbot.py
