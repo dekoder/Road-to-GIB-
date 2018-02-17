@@ -1,6 +1,8 @@
 # Road to GIB ?
 Development test
 
+
+
 <b>Exercise 1:</b>
 
 Coded in bash. It receives the path to the Apache log as the first parameter.
