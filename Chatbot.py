@@ -99,6 +99,7 @@ def fetch_url (client_socket, incident_number):
 
 def grep (client_socket, word, log_name):
 	print("[+] Searching %s in log %s" % (word, log_name))
+	# directory traversal protection
 	path='/var/log/logstore/%s' % log_name.rstrip('..')
 	p1 = Popen(["cat", path], stdout=PIPE)
 	p2 = Popen(["grep", word], stdin=p1.stdout, stdout=PIPE)
