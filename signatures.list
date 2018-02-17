@@ -1,0 +1,6 @@
+SQLI;select
+SQLI;where
+SQLI;from
+XSS;script
+XSS;alert
+XSS;mouseover
