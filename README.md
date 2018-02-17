@@ -26,7 +26,7 @@ Files:
 
 <b>Exercise 2:</b>
 
-Coded in python. Bot that reads a config file that using regulars expressions understands the user commands.</p>
+Coded in python. Bot that reads a config file and using regulars expressions understands the user commands.</p>
 Note: Config.ini has a minor change in the format. I used '#' insted of ':' to separate fields.
 
 If you click in the gif, you are sent to youtube:
