@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Autor: Xavi Beltran
+# Autor: S0cket8088
 # Date: 17/02/2018
 
 # Chatbot
