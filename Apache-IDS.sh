@@ -1,5 +1,5 @@
 #!/bin/bash
-# Autor: Xavi Beltran 
+# Autor: s0cket8088
 # Date: 17/02/2018
 
 # Apache IDS
